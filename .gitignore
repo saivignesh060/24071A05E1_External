@@ -52,3 +52,4 @@ dist
 .tern-port
 .DS_Store
 Thumbs.db
+.vscode/
